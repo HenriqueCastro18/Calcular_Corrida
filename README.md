@@ -1,4 +1,4 @@
-# Ride Evaluator 🚗
+# Avaliador de Corridas 🚗
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Maven](https://img.shields.io/badge/Maven-3.9-blue)
